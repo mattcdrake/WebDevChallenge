@@ -15,7 +15,6 @@
 1. [Accessibility](#accessibility)
 2. [Api](#api)
 3. [Auth and Service](#auth-and-sessions)
-4. [CMS](#cms)
 5. [CSS](#css)
 6. [Database](#database)
 7. [Environments and Server](#environments-and-servers)
@@ -60,10 +59,6 @@
 - [ ] Implement an OAuth2 server and a fake service and a fake app to make use of it.
 - [ ] Adding user registration.
 - [ ] Incorporate email confirmation and forgotten password functionality.
-
-### CMS
-- [ ] Set up WordPress and create a custom theme ~ [Developing a WordPress Theme from Scratch](http://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)
-- [ ] Set up Drupal and create a custom theme ~ [Drupal Theming Guide](https://www.drupal.org/documentation/theme)
 
 ### CSS
 - [ ] Draw Homer Simpson using nothing but CSS.
